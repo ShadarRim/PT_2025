@@ -4,7 +4,8 @@
 
 
 # Самостоятельная работа
-[0] [Проверка знаний Python](https://contest.yandex.ru/contest/74815/enter)	
+[0] [Проверка знаний Python](https://contest.yandex.ru/contest/74815/enter) \
+[1] [NumPy](https://contest.yandex.ru/contest/74843/enter)
 
 # Дополнительные материалы
 [0] [Набор данных для решения одной из задач](https://github.com/ShadarRim/PT_2025/blob/main/00a_board-games-raiting.zip)
